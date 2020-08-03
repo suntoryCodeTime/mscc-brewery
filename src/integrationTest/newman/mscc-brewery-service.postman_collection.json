@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "e1191aad-8200-45fb-9779-01cee72cdee8",
-		"name": "Spring Boot Microservice Course",
+		"name": "mscc-brewery-service",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
